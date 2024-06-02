@@ -21,8 +21,46 @@
   </ul>
 </div>
 <!--tech stack icons-->
+<h2>Tecnologías que uso para programar en FrontEnd</h2>
+<h3>Tecnologías de uso diario</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass&perline=14" />
+  </a>
+</p>
+<h3>Tecnologías que uso para dar estilos en mis proyectos</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,materialui&perline=14" />
+  </a>
+</p>
+<h3>Lenguajes que uso para mis proyectos en el FrontEnd</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts&perline=14" />
+  </a>
+</p>
+<h3>Tecnologías que uso para mis proyectos en el FrontEnd</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,reactivex,redux,angular,nextjs&perline=14" />
+  </a>
+</p>
+<h3>Lenguajes que uso para mis proyectos en el Backend</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,php,java&perline=14" />
+  </a>
+</p>
+<h3>Tecnologías que uso para mis proyectos en el Backend</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nestjs,express,spring,cs&perline=14" />
+  </a>
+</p>
+<h3>Bases de datos que uso continuamente</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&perline=14" />
   </a>
 </p>
