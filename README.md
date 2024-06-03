@@ -26,7 +26,7 @@
 <h2>Tecnologías que uso para programar en FrontEnd</h2>
 <h3>Tecnologías de uso diario</h3>
 En el desarrollo de aplicaciones web, el uso de HTML (HyperText Markup Language) es fundamental para estructurar el contenido de las páginas, mientras que CSS (Cascading Style Sheets) permite controlar y personalizar la presentación visual. Complementando estas tecnologías, utilizo SASS, un preprocesador de CSS que me facilita escribir código más limpio y organizado mediante características avanzadas como variables, mixins y funciones. Esta combinación es esencial para desarrollar interfaces de usuario intuitivas y responsivas, asegurando que se adapten a cualquier dispositivo y tamaño de pantalla, lo cual es crucial en proyectos como el desarrollo de aplicativos web para la administración de un bar o restaurante donde la experiencia de usuario es prioritaria.
-<br style="margin-bottom: 20px;">
+<h2 style="margin-bottom: 20px;"></h2>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass&perline=14" />
