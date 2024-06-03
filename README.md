@@ -14,6 +14,8 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
+<h2>:smiley:¿Quien soy?</h2>
 <div style="margin-bottom: 20px;"/>
 <p>🚀 Desarrollador FullStack con pasión por construir aplicaciones web que hacen una diferencia. Con más de 3 años de experiencia, me especializo en llevar ideas a la realidad, combinando tecnologías modernas y mejores prácticas para crear soluciones eficientes y escalables.</p>
 
@@ -82,7 +84,7 @@ En cuanto a la gestión de datos, MySQL es mi sistema de gestión de bases de da
   </a>
 </p>
 <h3>Otras tecnologías que he usado y/o uso y domino</h3>
-Esta categoría abarca herramientas y tecnologías esenciales para el desarrollo, mantenimiento y despliegue de aplicaciones. Docker me permite contenerizar y desplegar aplicaciones de manera eficiente, asegurando la consistencia entre entornos de desarrollo y producción. Git y GitHub son fundamentales para el control de versiones y la colaboración en equipo, permitiéndome gestionar cambios y contribuciones de manera efectiva. Utilizo Visual Studio y Visual Studio Code para un entorno de desarrollo integrado que me ofrece herramientas poderosas para la codificación, depuración y prueba de software. Python es un lenguaje que utilizo para el srapy o extraccion de datos de la web. npm es mi gestor de paquetes para JavaScript, imprescindible para manejar librerías y dependencias en proyectos de Frontend y Backend. .NET me proporciona un marco robusto para el desarrollo de aplicaciones en C#, mientras que WordPress me permite crear sitios web dinámicos y gestionar contenido de forma eficiente.
+Esta categoría abarca herramientas y tecnologías esenciales para el desarrollo, mantenimiento y despliegue de aplicaciones. Docker me permite contenerizar y desplegar aplicaciones de manera eficiente, asegurando la consistencia entre entornos de desarrollo y producción. Git y GitHub son fundamentales para el control de versiones y la colaboración en equipo, permitiéndome gestionar cambios y contribuciones de manera efectiva. Utilizo Visual Studio y Visual Studio Code para un entorno de desarrollo integrado que me ofrece herramientas poderosas para la codificación, depuración y prueba de software. Python es un lenguaje que utilizo para el srapy o extraccion de datos de la web. npm es mi gestor de paquetes para JavaScript, imprescindible para manejar librerías y dependencias en proyectos de Frontend y Backend. .NET me proporciona un marco robusto para el desarrollo de aplicaciones en C#, mientras que WordPress me permite crear sitios web dinámicos y gestionar contenido de forma eficiente. Por otra parte tambien uso docker, creo containers para mis bases de datos con archivos docker-compose.yml estos me permiten crear una conexión a base de datos rapidamente, sin necesidad de hacer una configuración extra en mi entorno de desarrollo o en mi ordenador, incluso de acuerdo a las necesidades de cada proyecto he desplegado aplicaciones con docker para el uso y compatibilidad del código al momento de trabajar en equipo.
 <h3 style="margin-bottom: 20px;"></h3>
 <p align="left">
   <a href="https://skillicons.dev">
