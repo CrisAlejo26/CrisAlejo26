@@ -14,8 +14,8 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
-<h2>:smiley:¿Quien soy?</h2>
+
+<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> <h2>¿Quien soy?</h2>
 <div style="margin-bottom: 20px;"/>
 <p>🚀 Desarrollador FullStack con pasión por construir aplicaciones web que hacen una diferencia. Con más de 3 años de experiencia, me especializo en llevar ideas a la realidad, combinando tecnologías modernas y mejores prácticas para crear soluciones eficientes y escalables.</p>
 
